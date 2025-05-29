@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Pratik
-- 🌱 I’m currently exploring web development
+- 👋 Hi, I’m Pratik.
+- 🌱 I’m currently exploring Web Development along with DSA.
 - 📫 LinkedIn at https://bit.ly/thepratikguptaa
 
 <!---
