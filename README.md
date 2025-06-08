@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Pratik.
 - 🌱 I’m currently exploring Web Development along with DSA.
 - 📫 Mail me at pratikguptamain@gmail.com
-- 📫 LinkedIn at linkedin.com/in/thepratikguptaa
-- 📫 LeetCode at leetcode.com/u/thepratikguptaa
+- 📫 LinkedIn at https://linkedin.com/in/thepratikguptaa
+- 📫 LeetCode at https://leetcode.com/u/thepratikguptaa
 
 <!---
 thepratikguptaa/thepratikguptaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
