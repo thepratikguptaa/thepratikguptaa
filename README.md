@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Pratik.
 - 🌱 I’m currently exploring Web Development along with DSA.
+- 📫 Mail me at pratikguptamain@gmail.com
 - 📫 LinkedIn at https://www.linkedin.com/in/thepratikguptaa
 - 📫 LeetCode at https://leetcode.com/u/thepratikguptaa/
 
