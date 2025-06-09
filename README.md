@@ -5,7 +5,7 @@
 - 📫 LeetCode at https://leetcode.com/u/thepratikguptaa
 
   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepratikguptaa&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepratikguptaa&layout=compact&theme=dark" height="150" />
 </p>
 
 <!---
