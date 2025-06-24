@@ -1,9 +1,12 @@
 - 👋 Hi, I’m Pratik.
 - 🌱 I’m currently exploring Full-Stack Development along with DSA.
+
+- 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+- 
 - 📫 Mail me at pratikguptamain@gmail.com
 - 📫 LinkedIn at https://linkedin.com/in/thepratikguptaa
 - 📫 LeetCode at https://leetcode.com/u/thepratikguptaa
-- 📫 Send me an anonymous message: https://ghostfeedback.vercel.app/u/Pratik
+- 📫 Send me an anonymous message at https://ghostfeedback.vercel.app/u/Pratik
 
 
   <p align="center">
