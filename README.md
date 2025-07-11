@@ -9,7 +9,7 @@
 - 📫 Send me an anonymous message at https://ghostfeedback.vercel.app/u/Pratik
 <br/>
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=thepratikguptaa&theme=dark&hide_border=true" alt="thepratikguptaa's GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=thepratikguptaa&theme=dark&hide_border=false" alt="thepratikguptaa's GitHub Stats" />
 </div>
 <!---
 thepratikguptaa/thepratikguptaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
