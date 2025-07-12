@@ -7,14 +7,6 @@
 - 📫 LinkedIn at https://linkedin.com/in/thepratikguptaa
 - 📫 LeetCode at https://leetcode.com/u/thepratikguptaa
 - 📫 Send me an anonymous message at https://ghostfeedback.vercel.app/u/Pratik
-<br/>
-<div align="center">
- <img src="https://streak-stats.demolab.com?user=thepratikguptaa&theme=omni&hide_border=true" alt="thepratikguptaa's GitHub Stats" />
-</div>
-<br/>
-<div align="center">
- <img src="https://leetcard.jacoblin.cool/thepratikguptaa?theme=dark&font=Ubuntu" alt="thepratikguptaa's LeetCode Stats" />
-</div>
 
 
 <!---
