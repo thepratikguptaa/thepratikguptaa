@@ -3,7 +3,7 @@
 - 🧑🏻‍💻 My Tech Stack: React, NextJS, TypeScript, TailwindCSS, Figma.
 - 💻 Languages I know: JavaScript, TypeScript, Python, Java, C++.
 
- 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+ ---
   
 - 📫 LinkedIn at [thepratikguptaa](https://linkedin.com/in/thepratikguptaa)
 - 📫 LeetCode at [thepratikguptaa](https://leetcode.com/u/thepratikguptaa)
