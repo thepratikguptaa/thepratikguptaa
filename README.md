@@ -1,10 +1,12 @@
+Who Am I?
 - 👋🏻 Hi, I’m Pratik.
 - 🌱 I’m currently exploring Full-Stack Development along with DSA.
 - 🧑🏻‍💻 My Tech Stack: React, NextJS, TypeScript, TailwindCSS, Figma.
 - 💻 Languages I know: JavaScript, TypeScript, Python, Java, C++.
 
  ---
-  
+
+Find Me
 - 📫 LinkedIn at [thepratikguptaa](https://linkedin.com/in/thepratikguptaa)
 - 📫 LeetCode at [thepratikguptaa](https://leetcode.com/u/thepratikguptaa)
 - 📫 Portfolio/Website at [https://pratik-gupta-portfolio.vercel.app/](https://pratik-gupta-portfolio.vercel.app/)
