@@ -11,7 +11,7 @@
 - 📫 Mail me at **pratikguptamain@gmail.com**
 - 📫 Send me an anonymous message at https://ghostfeedback.vercel.app/u/Pratik
 
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+---
 
 - My Work Experience
   - 🔴 Worked as a Web Developer at [Kashi Cargos](https://www.kashicargos.com/)
