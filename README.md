@@ -1,3 +1,4 @@
+ ---
 Who Am I?
 - 👋🏻 Hi, I’m Pratik.
 - 🌱 I’m currently exploring Full-Stack Development along with DSA.
