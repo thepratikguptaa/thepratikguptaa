@@ -16,7 +16,7 @@ Find Me
 
 ---
 
-- My Work Experience
+My Work Experience
   - 🔴 Worked as a Web Developer at [Kashi Cargos](https://www.kashicargos.com/)
 
 ---
