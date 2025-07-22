@@ -8,16 +8,16 @@ Who Am I?
  ---
 
 Find Me
-- 📫 LinkedIn at [thepratikguptaa](https://linkedin.com/in/thepratikguptaa)
-- 📫 LeetCode at [thepratikguptaa](https://leetcode.com/u/thepratikguptaa)
-- 📫 Portfolio/Website at [https://pratik-gupta-portfolio.vercel.app/](https://pratik-gupta-portfolio.vercel.app/)
-- 📫 Mail me at **pratikguptamain@gmail.com**
+- 📫 **LinkedIn** at [thepratikguptaa](https://linkedin.com/in/thepratikguptaa)
+- 📫 **LeetCode** at [thepratikguptaa](https://leetcode.com/u/thepratikguptaa)
+- 📫 **Portfolio Website** at [https://pratik-gupta-portfolio.vercel.app/](https://pratik-gupta-portfolio.vercel.app/)
+- 📫 **Mail me** at pratikguptamain@gmail.com
 - 📫 Send me an anonymous message at https://ghostfeedback.vercel.app/u/Pratik
 
 ---
 
 My Work Experience
-  - Worked as a Web Developer at [Kashi Cargos](https://www.kashicargos.com/)
+  - Worked as a **Web Developer** at [Kashi Cargos](https://www.kashicargos.com/)
 
 ---
 
