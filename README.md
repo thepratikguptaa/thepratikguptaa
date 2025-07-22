@@ -12,7 +12,6 @@ Find Me
 - 📫 **LeetCode** at [thepratikguptaa](https://leetcode.com/u/thepratikguptaa)
 - 📫 **Portfolio Website** at [https://pratik-gupta-portfolio.vercel.app/](https://pratik-gupta-portfolio.vercel.app/)
 - 📫 **Mail me** at pratikguptamain@gmail.com
-- 📫 Send me an anonymous message at https://ghostfeedback.vercel.app/u/Pratik
 
 ---
 
