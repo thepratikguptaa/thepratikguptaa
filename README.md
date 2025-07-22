@@ -1,9 +1,9 @@
  ---
 Who Am I?
-- 👋🏻 Hi, I’m Pratik.
-- 🌱 I’m currently exploring Full-Stack Development along with DSA.
-- 🧑🏻‍💻 My Tech Stack: React, NextJS, TypeScript, TailwindCSS, Figma.
-- 💻 Languages I know: JavaScript, TypeScript, Python, Java, C++.
+- 👋🏻 Hi, I’m **Pratik**.
+- 🌱 I’m currently exploring **Full-Stack Development** along with **DSA**.
+- 🧑🏻‍💻 My Tech Stack: **React**, **NextJS**, **TypeScript**, **React Native**, **TailwindCSS**, **Figma**.
+- 💻 Languages I know: **JavaScript**, **TypeScript**, **Python**, **Java**, **C++**.
 
  ---
 
