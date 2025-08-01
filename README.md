@@ -3,7 +3,7 @@ Who Am I?
 - 👋🏻 Hi, I’m **Pratik**.
 - 🌱 I’m currently exploring **Full-Stack Development** along with **DSA**.
 - 🧑🏻‍💻 My Tech Stack: **React**, **NextJS**, **React Native**, **TypeScript**, **TailwindCSS**, **Figma**.
-- 💻 Languages I know: **JavaScript**, **TypeScript**, **Python**, **Java**, **C++**.
+- 💻 Languages I know: **JavaScript**, **TypeScript**, **Python**, **Java**, **C**, **C++**.
 
  ---
 
