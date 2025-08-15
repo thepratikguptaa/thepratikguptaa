@@ -2,7 +2,7 @@
 Who Am I?
 - Hi, I am **Pratik**.
 - I am currently exploring **Full-Stack Development** along with **DSA**.
-- I am currently working with technologies based on Javascript. Technologies such as ReactJS, NextJS, NodeJS.
+- I am currently working with technologies based on **Javascript**. Technologies such as **ReactJS**, **NextJS**, **NodeJS**.
 - My Tech Stack: **NextJS**, **React Native**, **TypeScript**, **TailwindCSS**, **Figma**.
 - Languages I know: **JavaScript**, **TypeScript**, **Python**, **Java**, **C**, **C++**.
 
